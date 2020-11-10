@@ -97,7 +97,7 @@
             "type": "vcs",
             "url": "https://github.com/YummyTofu/laravel-support.git"
         }
-    ]
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true
 }
